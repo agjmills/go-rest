@@ -1,2 +1,3 @@
-# go-rest
-REST / JsonAPI base in Go
+# Python / Nmap / Lambda
+
+Running nmap via python, in a Lambda function
